@@ -1,7 +1,7 @@
 # PROJET ANDROID
 
 Ce projet consistait a créer une application android de prevision météo.
-L'application est connecté a une api de prévision meteo.
+L'application est connecté à une api de prévision meteo.
 ## Credits
 
 
